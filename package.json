@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "DaDDy",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
